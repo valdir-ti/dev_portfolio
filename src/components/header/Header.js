@@ -1,8 +1,9 @@
 import React from 'react';
-import { Navbar, NavItem, Row } from 'react-materialize';
+import { Navbar, Row } from 'react-materialize';
 import { Link } from 'react-router-dom';
 
 function Header(){
+
   return (
     <Row>
       <Navbar className="grey darken-2">
